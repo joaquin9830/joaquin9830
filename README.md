@@ -1,6 +1,18 @@
 ### Hola! 👋
 Bienvenido a mi github. Aquí encontrarás información sobre las tecnologías en las que me especializo y algunos proyectos relevantes en los que he trabajado. Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
 
+###Tecnologías
+<h2>Desarrollo Frontend</h2>
+HTML
+CSS
+JavaScript
+Angular
+TypeScript
+Bootstrap
+Desarrollo Backend
+Java
+Spring Boot
+MySQL
 
 
 

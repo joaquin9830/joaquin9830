@@ -5,8 +5,7 @@
 
 
 
-- 🌱 I’m currently learning full stack developer
-- 📫 How to reach me:
+
 <div>
 <p align="center">
   <a href="https://www.instagram.com/joaquin_vinolo/?hl=es-la" target="blank">

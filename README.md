@@ -11,7 +11,7 @@
 
 <div align="center">
 <h3 align="left">Languages and Tools:</h3>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquin9830&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/>
 </div>
 <div>
   <h4 align="left">Frontend:</h4>

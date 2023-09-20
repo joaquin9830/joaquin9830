@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Angular**
 
-- 📲 How to reach me **joaquin9811@gmail.com**
 
 <div align="center">
 <h3 align="left">Languages and Tools:</h3>

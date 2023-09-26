@@ -2,7 +2,7 @@
   <h3 align="center">Full Stack Developer</h3>
    <h4 align="center">Técnico en Investigación de la Escena del Crimen</h4>
   
-  <h4 align="center">¡Bienvenido a mi github! Aquí encontrarás una colección de proyectos y código relacionado con mi trabajo en el mundo del desarrollo y la programación.
+  <h4 align="center">¡Bienvenido a mi github! Aquí encontrarás una colección de proyectos y código relacionado con mi trabajo en el mundo del desarrollo y la programación. Te invito a que me conozcas mis habilidades y conocimiento: 
     </h4>
 
   - 💻 Actualmente me encuentro ampliando mis conocimientos en: **Java y Python**

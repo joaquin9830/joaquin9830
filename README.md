@@ -1,15 +1,20 @@
-  <h1 align="center">Hi 👋, I'm Joaquín Viñolo</h1>
+  <h1 align="center">Hola 👋, soy Joaquín Viñolo</h1>
   <h3 align="center">Full Stack Developer</h3>
+   <h4 align="center">Técnico en Investigación de la Escena del Crimen</h4>
+  
+  <h4 align="center">¡Bienvenido a mi github! Aquí encontrarás una colección de proyectos y código relacionado con mi trabajo en el mundo del desarrollo y la programación.
+    </h4>
 
-  - 💻 I’m currently learning **Java and Python**
+  - 💻 Actualmente me encuentro ampliando mis conocimientos en: **Java y Python**
 
-  - 👨‍💻 All of my projects are available at [https://portfoliovj-f4511.web.app/](https://portfoliovj-f4511.web.app/)
+  - 👨‍💻 Visita mi portfolio: [https://portfoliovj-f4511.web.app/](https://portfoliovj-f4511.web.app/)
 
-  - 💬 Ask me about **Angular**
+  - 💬 Pregúntame acerca de: **Angular**
 
+  - 🔍 Además soy: **Criminalista**
 
   <div align="center">
-    <h3 align="left">Languages and Tools:</h3>
+    <h3 align="left">Lenguajes y tecnologías:</h3>
     <img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquin9830&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" />
   </div>
@@ -74,7 +79,7 @@
 
 
   <div>
-    <h3 align="left">Connect with me:</h3>
+    <h3 align="left">Conecta conmigo en:</h3>
     <div>
       <p align="center">
         <a href="https://www.instagram.com/joaquin_vinolo/?hl=es-la" target="blank">

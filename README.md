@@ -69,7 +69,7 @@
         src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
   </div>
   <div>
-    <h4 align="left">Testing:</h4>
+    <h4 align="left"></h4>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
     </a>

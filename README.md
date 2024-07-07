@@ -7,7 +7,7 @@
 
   - 💻 Actualmente me encuentro ampliando mis conocimientos en: **Java y Python**
 
-  - 👨‍💻 Visita mi portfolio: [https://portfoliovj-f4511.web.app/](https://portfoliovj-f4511.web.app/](https://joaquinvinolo98.web.app/)
+  - 👨‍💻 Visita mi portfolio:(https://joaquinvinolo98.web.app/)
 
   - 💬 Pregúntame acerca de: **Angular**
 

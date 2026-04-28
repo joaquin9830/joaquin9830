@@ -1,99 +1,209 @@
-  <h1 align="center">Hola 👋, soy Joaquín Viñolo</h1>
-  <h3 align="center">Full Stack Developer</h3>
+# Joaquín Viñolo
 
-  
-  <h4 align="center">¡Bienvenido a mi github! Aquí encontrarás una colección de proyectos y código relacionado con mi trabajo en el mundo del desarrollo y la programación. Te invito a que me conozcas mis habilidades y conocimiento: 
-    </h4>
+**Desarrollador de Software Full Stack | Analista Funcional | Integraciones, Cloud e IA Generativa**
 
-  - 💻 Actualmente me encuentro ampliando mis conocimientos en: **Java y Python**
+---
 
-  - 👨‍💻 Visita mi portfolio: (https://joaquinvinolo98.web.app/)
+## Sobre mí
 
-  - 💬 Pregúntame acerca de: **Angular**
+Soy desarrollador de software con perfil híbrido **técnico-funcional**, enfocado en construir soluciones web escalables, integraciones entre sistemas y automatización de procesos de negocio.
 
-  - 🔍 Además soy: **Criminalista**
+Trabajo principalmente con **Angular, TypeScript, Python, AWS Lambda y APIs**, combinando desarrollo, análisis funcional, relevamiento de requerimientos y contacto directo con clientes. Mi experiencia está orientada a proyectos reales donde la tecnología debe responder a necesidades concretas del negocio, con foco en mantenibilidad, claridad técnica y mejora continua.
 
-  <div align="center">
-    <h3 align="left">Lenguajes y tecnologías:</h3>
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquin9830&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" />
-  </div>
-  <div>
-    <h4 align="left">Frontend:</h4>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
-        src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-        width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="40" height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="40" height="40" /> </a>
-  </div>
-  <div>
-    <h4 align="left">Backend:</h4>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-        width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-        width="40" height="40" /> </a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="40" height="40" /> </a>
-  </div>
-  <div>
-    <h4 align="left">Database:</h4>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="40" height="40" /> </a>
-  </div>
-  <div>
-    <h4 align="left">Backend as a Service(BaaS):</h4>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
-  </div>
-  <div>
-    <h4 align="left"></h4>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-  </div>
-  </div>
+En los últimos años participé en el desarrollo de **SPAs**, portales operativos, integraciones con servicios externos, automatización de flujos, generación de reportes, documentación técnica-funcional y definición de soluciones apoyadas en **IA generativa**, asistentes y herramientas de productividad para desarrollo.
 
+---
 
+## Perfil profesional
 
-  <div>
-    <h3 align="left">Conecta conmigo en:</h3>
-    <div>
-      <p align="center">
-        <a href="https://www.instagram.com/joaquin_vinolo/?hl=es-la" target="blank">
-          <img align="center"
-            src="https://user-images.githubusercontent.com/65192923/161411863-e98df321-4fc5-4068-869d-4adb213b51a1.png"
-            alt="Viñolo-ig" height="35px" width="35px" />
-        </a>
-        <a href="https://www.linkedin.com/in/joaqu%C3%ADn-vi%C3%B1olo-833327239/" target="blank">
-          <img align="center"
-            src="https://user-images.githubusercontent.com/65192923/161412096-c041ebcb-5bc1-4777-9cbd-4160f8e2f309.png"
-            alt="Viñolo_in" height="33px" width="35px" />
-        </a>
+- Desarrollo de aplicaciones web Full Stack
+- Análisis funcional y relevamiento de requerimientos
+- Integración entre sistemas y servicios externos
+- Arquitectura serverless y automatización de procesos
+- Diseño de soluciones modulares y mantenibles
+- Trabajo directo con clientes, stakeholders y equipos técnicos
+- Uso profesional de IA generativa aplicada al desarrollo, documentación y planificación técnica
 
+---
 
-  </div>
+## Stack principal
 
+### Frontend
+- Angular
+- TypeScript
+- HTML
+- CSS
+- Bootstrap
 
+### Backend / Serverless
+- Python
+- Java
+- Spring Boot
+- AWS Lambda
+- API Gateway
+
+### Bases de datos
+- MySQL
+- PostgreSQL
+- SQL Server
+
+### Cloud & DevOps
+- AWS (Lambda, S3)
+- GitHub Actions
+- CI/CD
+- Deploys en AWS
+- Firebase Hosting
+- Firebase Storage
+- Docker
+
+### Integraciones
+- APIs REST
+- SOAP
+- Integración con servicios externos
+- Servicios con IA
+- Automatización de flujos
+
+### Testing & Calidad
+- Validación funcional
+- Testing manual
+- Fundamentos de tests unitarios
+- Soporte a QA funcional
+- Validación end-to-end de flujos críticos
+
+### Arquitectura
+- Arquitectura serverless
+- Integración de sistemas
+- Diseño modular
+- Organización técnica de proyectos
+- Definición de estructuras y componentes reutilizables
+
+### Metodologías y herramientas
+- Scrum
+- Git
+- GitHub
+- Figma
+- Jira / documentación funcional
+- Cursor y herramientas de apoyo al desarrollo con IA
+
+---
+
+## Experiencia
+
+### In Motion — Desarrollador / Analista Funcional
+**Noviembre 2024 - Actualidad**
+
+Trabajo en proyectos corporativos con foco en desarrollo web, integraciones, automatización y análisis funcional.
+
+#### Principales responsabilidades
+- Relevamiento y validación de requerimientos funcionales junto a clientes y stakeholders
+- Análisis, documentación y seguimiento de procesos e integraciones entre sistemas
+- Definición y validación de reglas de negocio para flujos operativos críticos
+- Desarrollo de portales web SPA en Angular para gestión de trámites, validaciones, carga documental y circuitos operativos
+- Implementación y mantenimiento de soluciones serverless con AWS Lambda y Azure Functions
+- Desarrollo de integraciones con servicios externos, validación de datos, gestores documentales y APIs de negocio
+- Generación de reportes y consultas avanzadas para monitoreo operativo y soporte a decisiones
+- Participación en pruebas funcionales y validaciones end-to-end
+- Articulación entre negocio y equipo técnico para asegurar entregas alineadas a los requerimientos
+- Participación en planificación técnica, definición de arquitectura y organización de soluciones frontend e integraciones
+- Implementación de soluciones con IA generativa, asistentes virtuales y automatización aplicada a procesos de negocio
+
+#### Contexto de trabajo
+- Proyectos con clientes reales y procesos críticos
+- Rol técnico-funcional con contacto directo con negocio
+- Participación en soluciones del rubro seguros y automatización de flujos operativos
+- Liderazgo técnico en definición de estructura de proyectos, componentes y lineamientos de implementación
+
+---
+
+## Experiencia freelance
+
+### Desarrollo de proyectos web y productos propios
+**2023 - Actualidad**
+
+Además de mi experiencia formal, desarrollo proyectos freelance y productos propios, participando en:
+
+- Landing pages y sitios web para clientes reales
+- Aplicaciones web orientadas a negocio
+- Diseño e implementación de interfaces
+- Integración con APIs
+- Despliegues productivos
+- Desarrollo de una plataforma SaaS para gestión de eventos
+- Iteración continua sobre ideas, mejoras de UX/UI y soluciones escalables
+
+---
+
+## Formación
+
+### UTN — Tecnicatura Universitaria en Programación
+**2023 - 2024**
+
+### Alura Latam — Bootcamp Frontend
+**2022 - 2023**
+- React
+- JavaScript
+- Figma
+
+### Argentina Programa — Desarrollador Web Full Stack
+**2021 - 2022**
+
+Formación orientada al desarrollo de aplicaciones web full stack, incluyendo lógica de programación, frontend, backend, bases de datos, APIs, autenticación, despliegues y buenas prácticas de desarrollo.
+
+---
+
+## Enfoque actual
+
+Hoy estoy profundizando especialmente en:
+
+- Arquitectura de soluciones
+- Integraciones y automatización
+- Análisis funcional técnico
+- IA generativa aplicada al desarrollo
+- Ingeniería de prompts
+- Asistentes y flujos apoyados en IA
+- Calidad de software y escalabilidad
+
+---
+
+## Qué me diferencia
+
+Mi perfil combina dos mundos que muchas veces aparecen separados:
+
+### Técnica
+Puedo diseñar, desarrollar, integrar y mantener soluciones reales.
+
+### Negocio
+Puedo relevar necesidades, entender procesos, hablar con clientes y traducir problemas en soluciones claras.
+
+Ese equilibrio me permite aportar no solo en la implementación, sino también en la **definición**, la **priorización** y la **evolución** de los productos en los que trabajo.
+
+---
+
+## Objetivo profesional
+
+Seguir creciendo en roles donde pueda combinar:
+
+- Desarrollo Full Stack
+- Análisis funcional / técnico-funcional
+- Integraciones y arquitectura
+- Automatización e IA generativa
+- Construcción de productos y soluciones con impacto real
+
+---
+
+## Contacto
+
+- **Email:** joaquin9811@gmail.com
+- **GitHub:** https://github.com/joaquin9830
+- **Portfolio:** https://joaquinvinolo98.web.app/
+
+---
+
+## Nota
+
+Este perfil está orientado a oportunidades como:
+
+- Desarrollador Full Stack
+- Analista Funcional IT
+- Analista Técnico Funcional
+- Desarrollador orientado a integraciones
+- Software Engineer con foco en procesos, cloud y automatización

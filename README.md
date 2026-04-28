@@ -1,6 +1,10 @@
 # Joaquín Viñolo
 
-**Desarrollador de Software Full Stack | Analista Funcional | Integraciones, Cloud e IA Generativa**
+### **Desarrollador de Software Full Stack | Analista Funcional | Integraciones, Cloud e IA Generativa**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap,python,java,spring,aws,mysql,postgres,git,github,docker,firebase" />
+</p>
 
 ---
 
@@ -89,7 +93,7 @@ En los últimos años participé en el desarrollo de **SPAs**, portales operativ
 
 ## Experiencia
 
-### In Motion — Desarrollador / Analista Funcional
+### **Uteam — Desarrollador / Analista Funcional**
 **Noviembre 2024 - Actualidad**
 
 Trabajo en proyectos corporativos con foco en desarrollo web, integraciones, automatización y análisis funcional.
@@ -117,7 +121,7 @@ Trabajo en proyectos corporativos con foco en desarrollo web, integraciones, aut
 
 ## Experiencia freelance
 
-### Desarrollo de proyectos web y productos propios
+### **Desarrollo de proyectos web y productos propios**
 **2023 - Actualidad**
 
 Además de mi experiencia formal, desarrollo proyectos freelance y productos propios, participando en:
@@ -134,16 +138,16 @@ Además de mi experiencia formal, desarrollo proyectos freelance y productos pro
 
 ## Formación
 
-### UTN — Tecnicatura Universitaria en Programación
+### **UTN — Tecnicatura Universitaria en Programación**
 **2023 - 2024**
 
-### Alura Latam — Bootcamp Frontend
+### **Alura Latam — Bootcamp Frontend**
 **2022 - 2023**
 - React
 - JavaScript
 - Figma
 
-### Argentina Programa — Desarrollador Web Full Stack
+### **Argentina Programa — Desarrollador Web Full Stack**
 **2021 - 2022**
 
 Formación orientada al desarrollo de aplicaciones web full stack, incluyendo lógica de programación, frontend, backend, bases de datos, APIs, autenticación, despliegues y buenas prácticas de desarrollo.
